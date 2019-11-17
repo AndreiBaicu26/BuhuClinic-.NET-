@@ -1,0 +1,17 @@
+E:\cabmedcu user\bin\Debug\Cabinet Medical 2.exe.config
+E:\cabmedcu user\bin\Debug\Cabinet Medical 2.exe
+E:\cabmedcu user\obj\Debug\Cabinet Medical 2.csprojAssemblyReference.cache
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.AddMedic.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.AddPatient.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.Form1.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.MedicsF.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.Patients.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.Properties.Resources.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.Statistics.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.ucAgeStat.resources
+E:\cabmedcu user\obj\Debug\Cabinet_Medical_2.ucSexesStat.resources
+E:\cabmedcu user\obj\Debug\Cabinet Medical 2.csproj.GenerateResource.cache
+E:\cabmedcu user\obj\Debug\Cabinet Medical 2.csproj.CoreCompileInputs.cache
+E:\cabmedcu user\obj\Debug\Cabinet Medical 2.exe
+E:\cabmedcu user\obj\Debug\Cabinet Medical 2.pdb
+E:\cabmedcu user\bin\Debug\Cabinet Medical 2.pdb
